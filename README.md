@@ -1,4 +1,5 @@
 # Online-food-order
+This is a microservice app that allows user to place the order and admin to create new meals, built with SpringCloud.
 ## Overview
 
 ![project structure](https://tva1.sinaimg.cn/large/e6c9d24egy1h6kv5yvvqej20l60didgk.jpg)
